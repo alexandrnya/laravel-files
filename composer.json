@@ -1,0 +1,17 @@
+{
+    "name": "alexandrnya/laravel-files",
+    "autoload": {
+        "psr-4": {
+            "Alexandrnya\\Laravel\\Files\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "alexandrnya1997@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^9.19"
+    }
+}
